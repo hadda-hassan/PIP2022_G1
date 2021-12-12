@@ -1,5 +1,5 @@
 # PIP2022_G1
-Attention ICI en partage que le code!!!
+PS:  Attention ICI on partage que le code!!!
 
 _________________________________________________
 Sujet de groupe:   Détection d’anomalie supervisée

@@ -10,9 +10,10 @@ __________________________________________________
 data:
 Jeu de données n°1
 
-----------------------------
+---------------------------
 Comment utiliser Git
 ---------------------------
+
 Une démonstration de l'utilisation de Git avec Github. Ce projet vous permet de prendre en main rapidement Git en association avec Github. Les commandes sont directement saisies dans une console. J'utilise terminal sur MAC OS X.
 
 Je liste les commandes de base.
@@ -91,9 +92,17 @@ git reset --hard HEAD^ : permet d'annuler un merge branch en local - si le push 
 
 git checkout -f: 'annuler' une suppression - si non commitée
 
-Actions classiques de base Coder Commit Push
+----------------------------
+Actions classiques de base
+----------------------------
+Coder 
+Commit 
+Push
+Pull
 
+-------------------------------------------------
 Mémento pour travailler avec des dépôts distants
+-------------------------------------------------
 
 git remote : affiche les dépôts distants
 
@@ -107,16 +116,18 @@ git push [remote -> origin] [branche -> master] : pousse les modifications sur u
 
 git remote show [nom_distant_repository -> origin] : inspecte le dépôt distant (origin)
 
+---------------
 Configurer Git
-
+---------------
 git config --list : lister la config
 
 git config --global color.ui false : desactive les couleurs
 
 git config --global color.ui false : desactive les couleurs
 
+-------------------
 Commandes terminal
-
+-------------------
 mkdir : créer un répertoire
 
 rm -rf : effacer un dossier et ses fichiers (tous même les protégés sans alerte)

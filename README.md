@@ -4,7 +4,7 @@ N.B :  Attention ICI on partage que le code!!!
 _________________________________________________
 Sujet de groupe:   Détection d’anomalie supervisée
 
-
+ici c'est pauline.
 
 __________________________________________________
 data:
